@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\bin\Debug\T8Television.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\bin\Debug\T8Television.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\bin\Debug\T8Television.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\obj\Debug\T8Television.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\obj\Debug\T8Television.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\obj\Debug\T8Television.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\obj\Debug\T8Television.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T8Television\obj\Debug\T8Television.pdb

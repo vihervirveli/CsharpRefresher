@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\bin\Debug\TTC8440.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\bin\Debug\TTC8440.exe
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\bin\Debug\TTC8440.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\obj\Debug\TTC8440.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\obj\Debug\TTC8440.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\obj\Debug\TTC8440.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\obj\Debug\TTC8440.exe
+C:\Users\OMISTAJA\Documents\ttc8440\TTC8440\obj\Debug\TTC8440.pdb

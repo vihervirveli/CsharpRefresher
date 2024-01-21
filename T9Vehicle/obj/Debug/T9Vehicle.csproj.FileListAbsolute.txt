@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\bin\Debug\T9Vehicle.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\bin\Debug\T9Vehicle.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\bin\Debug\T9Vehicle.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T9Vehicle\obj\Debug\T9Vehicle.pdb

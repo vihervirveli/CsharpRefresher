@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\bin\Debug\T7Washing machine.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\bin\Debug\T7Washing machine.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\bin\Debug\T7Washing machine.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\obj\Debug\T7WashingMachine.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\obj\Debug\T7WashingMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\obj\Debug\T7WashingMachine.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\obj\Debug\T7Washing machine.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T7Washing machine\obj\Debug\T7Washing machine.pdb

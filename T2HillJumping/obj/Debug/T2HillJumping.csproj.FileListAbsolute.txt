@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\bin\Debug\T2HillJumping.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\bin\Debug\T2HillJumping.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\bin\Debug\T2HillJumping.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\obj\Debug\T2HillJumping.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\obj\Debug\T2HillJumping.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\obj\Debug\T2HillJumping.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\obj\Debug\T2HillJumping.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T2HillJumping\obj\Debug\T2HillJumping.pdb

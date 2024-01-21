@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\bin\Debug\T12Tank.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\bin\Debug\T12Tank.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\bin\Debug\T12Tank.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\obj\Debug\T12Tank.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\obj\Debug\T12Tank.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\obj\Debug\T12Tank.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\obj\Debug\T12Tank.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T12Tank\obj\Debug\T12Tank.pdb

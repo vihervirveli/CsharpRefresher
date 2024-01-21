@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\bin\Debug\T3Consumption.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\bin\Debug\T3Consumption.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\bin\Debug\T3Consumption.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\obj\Debug\T3Consumption.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\obj\Debug\T3Consumption.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\obj\Debug\T3Consumption.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\obj\Debug\T3Consumption.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T3Consumption\obj\Debug\T3Consumption.pdb

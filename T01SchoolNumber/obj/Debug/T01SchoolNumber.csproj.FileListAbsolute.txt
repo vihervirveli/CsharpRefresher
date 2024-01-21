@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\bin\Debug\T01SchoolNumber.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\bin\Debug\T01SchoolNumber.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\bin\Debug\T01SchoolNumber.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\obj\Debug\T01SchoolNumber.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\obj\Debug\T01SchoolNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\obj\Debug\T01SchoolNumber.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\obj\Debug\T01SchoolNumber.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T01SchoolNumber\obj\Debug\T01SchoolNumber.pdb

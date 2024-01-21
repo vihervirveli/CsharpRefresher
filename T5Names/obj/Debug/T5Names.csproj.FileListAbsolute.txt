@@ -1,0 +1,8 @@
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\bin\Debug\T5Names.exe.config
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\bin\Debug\T5Names.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\bin\Debug\T5Names.pdb
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\obj\Debug\T5Names.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\obj\Debug\T5Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\obj\Debug\T5Names.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\obj\Debug\T5Names.exe
+C:\Users\OMISTAJA\Documents\ttc8440\T5Names\obj\Debug\T5Names.pdb
